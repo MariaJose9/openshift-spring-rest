@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
     </properties>
     <modules>
-        <module>rest-spring-core</module>
+        <!--<module>rest-spring-core</module>-->
         <module>rest-spring-front</module>
     </modules>
     <profiles>
